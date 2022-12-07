@@ -1,0 +1,5 @@
+fatal: detected dubious ownership in repository
+
+https://stackoverflow.com/questions/72978485/git-submodule-update-failed-with-fatal-detected-dubious-ownership-in-repositor
+
+_______________________________________________________________________________________________________
