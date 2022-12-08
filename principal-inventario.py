@@ -1,1 +1,2 @@
-print("Aqui vamos hacer lo principal de todo el proyecto...")
+from datetime import date, time, datetime
+print(datetime.now())  
