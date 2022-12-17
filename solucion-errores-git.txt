@@ -3,3 +3,9 @@ fatal: detected dubious ownership in repository
 https://stackoverflow.com/questions/72978485/git-submodule-update-failed-with-fatal-detected-dubious-ownership-in-repositor
 
 _______________________________________________________________________________________________________
+
+Comandos basicos para usarlos en git
+
+https://medium.com/@ergalez/comandos-b%C3%A1sicos-en-la-terminal-de-git-bash-en-windows-cbb43c9cea82
+
+_______________________________________________________________________________________________________
